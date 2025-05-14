@@ -43,8 +43,6 @@ export default function RootLayout({ children }) {
 
         </div>
 
-{/* 
-        <footer>Created By Odai AlAlwan</footer> */}
       </body>
     </html>
   );
